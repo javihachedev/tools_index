@@ -12,6 +12,7 @@ A set of useful tools and links to develop anything!
 
 ## SVG Tools
 - [Boxy: online SVG editor](https://boxy-svg.com/)
+- [Geometric and other art styles SVG Generator](https://tool.graphics/geometric)
 
 ## CSS
 - [CSS Patterns](https://projects.verou.me/css3patterns)
