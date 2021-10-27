@@ -27,6 +27,9 @@ A set of useful tools and links to develop anything!
 ## React
 - [ReactJS Roadmap 🗺 For Developers 💻](https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
+## Reverse Engineering
+- [Sourcegraph: source code search](https://sourcegraph.com/)
+
 ## Web game development
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS)
 
