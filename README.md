@@ -4,6 +4,16 @@ A set of useful tools and links to develop anything!
 ## Online IDEs
 - [Code Pen](https://codepen.io/)
 - [Code Sandbox](https://codesandbox.io/)
+- [Glitch](https://glitch.com/)
+
+## APIs
+- [Pipedream: connect APIs](https://pipedream.com/)
+
+## Monitoring
+- [Panelbear](https://panelbear.com/)
+
+## Development
+- [Devsamples: code samples of standard functionalities](https://www.devsamples.com/)
 
 ## Images Tools
 - [Photopea: Online photo editor](https://www.photopea.com/)
@@ -16,19 +26,36 @@ A set of useful tools and links to develop anything!
 
 ## CSS
 - [CSS Patterns](https://projects.verou.me/css3patterns)
-- [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
 - [Flexbox Patterns](https://flexboxpatterns.com/)
 - [Type Scale: font size, scale, webfonts](https://type-scale.com/)
+
+### Gradients
+- [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
 - [Easing gradients](https://larsenwork.com/easing-gradients/)
+
+### Animations
+- [Use Animations](https://useanimations.com/)
+- [Green sock](https://greensock.com/)
+- [Scroll out](https://scroll-out.github.io/)
+- [CSShake](https://elrumordelaluz.github.io/csshake/)
+- [Magic](https://www.minimamente.com/project/magic/)
+- [Animate](https://animate.style/)
+- [Bounce.js](http://bouncejs.com/)
+- [Anime.js](https://animejs.com/)
 
 ## Team
 - [Online whiteboard](https://witeboard.com/)
+
+## Deployment
+- [Netlify](https://www.netlify.com/)
 
 ## React
 - [ReactJS Roadmap 🗺 For Developers 💻](https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 ## Reverse Engineering
 - [Sourcegraph: source code search](https://sourcegraph.com/)
+- [Umnify: unpack/deobfuscate JavaScript, CSS, HTML, XML and JSON code](https://unminify.com/)
+- [Whatruns: identify technologies used on any website](https://www.whatruns.com/)
 
 ## Web game development
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS)
