@@ -44,7 +44,8 @@ A set of useful tools and links to develop anything!
 - [Anime.js](https://animejs.com/)
 
 ## Team
-- [Online whiteboard](https://witeboard.com/)
+- [Witeboard - Online whiteboard](https://witeboard.com/)
+- [Excalidraw - Online whiteboard with handwriting style](https://excalidraw.com/)
 
 ## Deployment
 - [Netlify](https://www.netlify.com/)
