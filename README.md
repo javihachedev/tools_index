@@ -20,6 +20,10 @@ A set of useful tools and links to develop anything!
 - [Image Color Picker: get any color value from pixels of an image](https://imagecolorpicker.com/)
 - [Dither me this: dithering tool](https://doodad.dev/dither-me-this/)
 
+## Images (resources)
+- [Undraw](https://undraw.co/)
+- [Blush](https://blush.design/)
+
 ## SVG Tools
 - [Boxy: online SVG editor](https://boxy-svg.com/)
 - [Geometric and other art styles SVG Generator](https://tool.graphics/geometric)
