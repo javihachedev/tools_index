@@ -50,6 +50,7 @@ A set of useful tools and links to develop anything!
 ## Team
 - [Witeboard - Online whiteboard](https://witeboard.com/)
 - [Excalidraw - Online whiteboard with handwriting style](https://excalidraw.com/)
+- [TLDraw - Online whiteboard with drawing capabilities](https://www.tldraw.com/)
 
 ## Deployment
 - [Netlify](https://www.netlify.com/)
