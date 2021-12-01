@@ -55,6 +55,9 @@ A set of useful tools and links to develop anything!
 ## Deployment
 - [Netlify](https://www.netlify.com/)
 
+## Bash scripting
+- [Shell check](https://www.shellcheck.net/)
+
 ## React
 - [ReactJS Roadmap 🗺 For Developers 💻](https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
