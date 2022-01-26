@@ -75,3 +75,6 @@ A set of useful tools and links to develop anything!
 ## PSX
 - [Playstation dev links](http://ps1.consoledev.net/)
 - [PSX Dev Network](http://www.psxdev.net/index.html)
+
+## Management
+- [Choose a license](https://choosealicense.com/)
