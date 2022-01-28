@@ -24,6 +24,9 @@ A set of useful tools and links to develop anything!
 - [Undraw](https://undraw.co/)
 - [Blush](https://blush.design/)
 
+## Icons
+- [Iconoir: SVG Open Source Icons Library](https://iconoir.com/)
+
 ## SVG Tools
 - [Boxy: online SVG editor](https://boxy-svg.com/)
 - [Geometric and other art styles SVG Generator](https://tool.graphics/geometric)
