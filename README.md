@@ -14,6 +14,7 @@ A set of useful tools and links to develop anything!
 
 ## Development
 - [Devsamples: code samples of standard functionalities](https://www.devsamples.com/)
+- [Developers roadmaps](https://roadmap.sh/)
 
 ## Images Tools
 - [Photopea: Online photo editor](https://www.photopea.com/)
@@ -26,6 +27,8 @@ A set of useful tools and links to develop anything!
 
 ## Icons
 - [Iconoir: SVG Open Source Icons Library](https://iconoir.com/)
+- [Tabler icons: Open source icons](https://tablericons.com/)
+- [Lodicon: animated icons library](https://lordicon.com/)
 
 ## SVG Tools
 - [Boxy: online SVG editor](https://boxy-svg.com/)
@@ -35,6 +38,9 @@ A set of useful tools and links to develop anything!
 - [CSS Patterns](https://projects.verou.me/css3patterns)
 - [Flexbox Patterns](https://flexboxpatterns.com/)
 - [Type Scale: font size, scale, webfonts](https://type-scale.com/)
+- [Couleur.io: Create armonizing color patterns](https://couleur.io/)
+- [CSS Layouts ready to go](https://csslayout.io/)
+- [Web patterns](https://web.dev/patterns/)
 
 ### Gradients
 - [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
@@ -49,11 +55,13 @@ A set of useful tools and links to develop anything!
 - [Animate](https://animate.style/)
 - [Bounce.js](http://bouncejs.com/)
 - [Anime.js](https://animejs.com/)
+- [Animated backgrounds](https://animatedbackgrounds.me/)
 
 ## Team
 - [Witeboard - Online whiteboard](https://witeboard.com/)
 - [Excalidraw - Online whiteboard with handwriting style](https://excalidraw.com/)
 - [TLDraw - Online whiteboard with drawing capabilities](https://www.tldraw.com/)
+- [Create an amazing github profile](https://www.profileme.dev/)
 
 ## Deployment
 - [Netlify](https://www.netlify.com/)
