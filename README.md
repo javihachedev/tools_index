@@ -1,6 +1,9 @@
 # TOOLS INDEX
 A set of useful tools and links to develop anything!
 
+## Learning
+- [300+ Best Free Programming Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
+
 ## Online IDEs
 - [Code Pen](https://codepen.io/)
 - [Code Sandbox](https://codesandbox.io/)
