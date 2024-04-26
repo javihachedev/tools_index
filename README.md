@@ -14,6 +14,7 @@ A set of useful tools and links to develop anything!
 
 ## Monitoring
 - [Panelbear](https://panelbear.com/)
+- [CPU/Memory tracker](https://github.com/astrofrog/psrecord)
 
 ## Development
 - [Devsamples: code samples of standard functionalities](https://www.devsamples.com/)
